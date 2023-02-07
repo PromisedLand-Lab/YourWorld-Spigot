@@ -1,0 +1,9 @@
+name: YourWorld
+main: top.promisedland.Main
+author: BatryCC
+version: 1.0
+api-version: 1.18
+commands:
+  yourworld:
+    description: 查看本插件帮助
+    usage: /<command>
